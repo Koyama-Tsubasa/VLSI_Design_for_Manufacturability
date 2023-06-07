@@ -1,4 +1,8 @@
 Here, you can draw the picture of all layers in each case by using the following command.  
+Layout Info:
+- Blue: normal conductor
+- Red: conductor of the critical net
+- green: dummy fill
 
 --- How to run ---
 
