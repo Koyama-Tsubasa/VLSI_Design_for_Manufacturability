@@ -1,0 +1,26 @@
+--- How to compile ---
+
+command:  $ make
+It will generate the executable file "Fill_Insertion" in this directory.
+
+command:  $ make clean
+To remove the executable file in this directory.
+
+
+--- How to run ---
+
+In this directory , enter the following command:
+command:  <exe> input/<testcase file> output/<output file>
+e.g. : 
+$ ./Fill_Insertion ./input/testcase1.txt ./output/testcase1.txt 
+
+
+--- How to verify ---
+
+In the beginning, please use the following command to make it excutable.
+command:  chmod 777 ./verifier
+
+In this directory , enter the following command:
+command:  ./verifier <input file path> <output file path>
+e.g. : 
+$ ./verifier ./input/3.txt .output/3.txt 
