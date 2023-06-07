@@ -1,0 +1,37 @@
+Checking layer 1...
+(Capacitance, Weighted Capacitance): (75038.718411, 375193.592053)
+Finish checking layer 1
+-------------------
+Checking layer 2...
+(Capacitance, Weighted Capacitance): (34298.898424, 154345.042908)
+Finish checking layer 2
+-------------------
+Checking layer 3...
+(Capacitance, Weighted Capacitance): (5164.365322, 20657.461288)
+Finish checking layer 3
+-------------------
+Checking layer 4...
+(Capacitance, Weighted Capacitance): (1258.119663, 4403.418821)
+Finish checking layer 4
+-------------------
+Checking layer 5...
+(Capacitance, Weighted Capacitance): (19575.743712, 58727.231135)
+Finish checking layer 5
+-------------------
+Checking layer 6...
+(Capacitance, Weighted Capacitance): (3344.210995, 8360.527489)
+Finish checking layer 6
+-------------------
+Checking layer 7...
+(Capacitance, Weighted Capacitance): (2.215238, 4.430476)
+Finish checking layer 7
+-------------------
+Checking layer 8...
+(Capacitance, Weighted Capacitance): (0.000000, 0.000000)
+Finish checking layer 8
+-------------------
+Checking layer 9...
+(Capacitance, Weighted Capacitance): (0.000000, 0.000000)
+Finish checking layer 9
+-------------------
+Total weighted capacitance: 621691.704171
