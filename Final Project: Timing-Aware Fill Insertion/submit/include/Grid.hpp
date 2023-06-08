@@ -9,18 +9,18 @@ using namespace std;
 
 class Grid {
 
-	////////////////////////////////////////////////////////
-	// -----------										  //
-	// Grid Values										  //
-	// -----------										  //
-	// first:											  //
-	// - 0: empty grid 	(no features/dummy fills)		  //
-	// - 1: feature 	(all kinds of conductors)		  //
+	////////////////////////////////////////////////////////////
+	// -----------						  //
+	// Grid Values						  //
+	// -----------						  //
+	// first:						  //
+	// - 0: empty grid 	(no features/dummy fills)	  //
+	// - 1: feature 	(all kinds of conductors)	  //
 	// - 2: min_spacing	(min-spacing area of conductors)  //
 	// - 3: KO area		(keep out areas of critical nets) //
-	// - 4: dummy fill	(dummy fills)					  //
-	// second: density									  //
-	////////////////////////////////////////////////////////
+	// - 4: dummy fill	(dummy fills)			  //
+	// second: density				          //
+	////////////////////////////////////////////////////////////
 
 	private:
 		const vector<int> chip_boundary;
