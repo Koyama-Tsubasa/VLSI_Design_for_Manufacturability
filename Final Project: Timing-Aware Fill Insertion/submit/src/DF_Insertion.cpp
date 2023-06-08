@@ -3,10 +3,10 @@
 void DF_Insertion::DFI(map<int, vector<pair<pair<int, int>, pair<int, int>>>> &DFs) {
 
 	////////////////////////////////
-	// ----------				  //
-	// Parameters				  //
-	// ----------				  //
-	// Grid: 	Grid Instructions //
+	// ----------		      //
+	// Parameters		      //
+	// ----------		      //
+	// Grid:    Grid Instructions //
 	////////////////////////////////
 
 	cout << "===== Dummy Fill Insertion =====" << endl;
