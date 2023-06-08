@@ -778,7 +778,6 @@ bool DF_Insertion::detailed_dummy_fill_insertion(
 								if (desired_density <= 0.0) return true;
 
 							}
-							else for (int del=y; del>=y-fill_wy; del--) for (int fill=start_x; fill<=x; fill++) DLG[del][fill] = 0;
 
 							y = start_y;
 							break;
@@ -916,7 +915,6 @@ bool DF_Insertion::detailed_dummy_fill_insertion(
 								if (desired_density <= 0.0) return true;
 
 							}
-							else for (int del=x; del>=x-fill_wx; del--) for (int fill=start_y; fill<=y; fill++) DLG[fill][del] = 0;
 
 							x = start_x;
 							break;
