@@ -9,12 +9,12 @@ using namespace std;
 int main(int argc, char **argv) {
 
 	///////////////////////////////////////////
-	// ----------							 //
-	// Parameters							 //
-	// ----------							 //
-	// GlobalTimer:		Global Timer		 //
-	// Parser: 			I/O Instructions 	 //
-	// DF_Insertion: 	Dummy Fill Insertion //
+	// ----------				 //
+	// Parameters				 //
+	// ----------			         //
+	// GlobalTimer:	    Global Timer         //
+	// Parser: 	    I/O Instructions 	 //
+	// DF_Insertion:    Dummy Fill Insertion //
 	///////////////////////////////////////////
 	
 	// prepare for the log file
