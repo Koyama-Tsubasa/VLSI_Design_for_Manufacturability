@@ -52,6 +52,8 @@ void DF_Insertion::DFI(map<int, vector<pair<pair<int, int>, pair<int, int>>>> &D
 			cout << "[Layer: " << Layer_id << "] ### Potential Constraint Violation ###" << endl;
 
 		}
+		
+		#pragma omp critical
 		DFs[Layer_id] = dummy_fills;
 		// Grid.print_layout(Layout_Grid, 0, 400, 0, Layout_Grid.size()-1);
 		// if (Layer_id == 1) break;
